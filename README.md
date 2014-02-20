@@ -1,3 +1,4 @@
+*This repository is a mirror of the [component](http://component.io) module [bloodhound/context-access](http://github.com/bloodhound/context-access). It has been modified to work with NPM+Browserify. You can install it using the command `npm install npmcomponent/bloodhound-context-access`. Please do not open issues or send pull requests against this repo. If you have issues with this repo, report it to [npmcomponent](https://github.com/airportyh/npmcomponent).*
 # context-access
 
 [![Build Status](https://secure.travis-ci.org/bloodhound/context-access.png)](http://travis-ci.org/bloodhound/context-access) 
